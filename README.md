@@ -1,4 +1,4 @@
-# Quasar App (-region-shop-admin)
+# Quasar App (quasar-project)
 
 A Quasar Project
 
